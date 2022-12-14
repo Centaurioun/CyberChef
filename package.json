@@ -71,7 +71,7 @@
     "imports-loader": "^4.0.0",
     "mini-css-extract-plugin": "2.6.0",
     "modify-source-webpack-plugin": "^3.0.0",
-    "nightwatch": "^2.1.7",
+    "nightwatch": "^2.5.1",
     "postcss": "^8.4.14",
     "postcss-css-variables": "^0.18.0",
     "postcss-import": "^14.1.0",
