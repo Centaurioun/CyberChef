@@ -160,7 +160,7 @@
     "ssdeep.js": "0.0.3",
     "stream-browserify": "^3.0.0",
     "tesseract.js": "3.0.2",
-    "ua-parser-js": "^1.0.2",
+    "ua-parser-js": "^1.0.33",
     "unorm": "^1.6.0",
     "utf8": "^3.0.0",
     "vkbeautify": "^0.99.3",
